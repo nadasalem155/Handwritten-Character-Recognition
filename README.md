@@ -7,8 +7,7 @@ This project is a **Handwritten Character Recognition** system built using **Con
 
 **Try Streamlit App:** [Streamlit App](https://handwritten-character-recognition1.streamlit.app/)  
 
-**Dataset:** [Kaggle Dataset](https://www.kaggle.com/datasets/dhruvildave/english-handwritten-characters-dataset
-License(s): ODbL-1.0)
+**Dataset:** [Kaggle Dataset](https://www.kaggle.com/datasets/dhruvildave/english-handwritten-characters-dataset)
 
 ---
 
