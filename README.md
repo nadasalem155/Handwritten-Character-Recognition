@@ -71,9 +71,9 @@ The CNN model is designed for recognizing handwritten characters from images. He
 
 After training on the custom dataset, the model achieved the following approximate performance:  
 
-- **Training Accuracy:** 98%  
-- **Validation Accuracy:** 95%  
-- **Test Accuracy:** 94%  
+- **Training Accuracy:** 86%  
+- **Validation Accuracy:** 83%  
+- **Test Accuracy:** 83%  
 
 - **Loss:**  
   - Training Loss: 0.08  
