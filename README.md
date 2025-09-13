@@ -76,8 +76,8 @@ After training on the custom dataset, the model achieved the following approxima
 - **Test Accuracy:** 83%  
 
 - **Loss:**  
-  - Training Loss: 0.08  
-  - Validation Loss: 0.15  
+  - Training Loss: 0.32
+  - Validation Loss: 0.5
 
 **Observations:**  
 - Most misclassifications occur for visually similar characters.  
